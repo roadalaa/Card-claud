@@ -30,6 +30,7 @@
     "tailwindcss": "^4.1.13",
     "vite": "^7.1.2"
   },
-   "engines": { "node": "20.x" }"
+  "engines": {
+    "node": "20.x"
   }
 }
